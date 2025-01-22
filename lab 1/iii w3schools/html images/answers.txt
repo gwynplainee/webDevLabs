@@ -1,0 +1,97 @@
+What is a correct HTML element for adding an image?
+
+The Answer: The <img> element
+
+
+Use the HTML image attributes to set the size of the image to 250 pixels wide and 400 pixels tall.
+
+<img src="scream.png" width="250" height="400">
+
+
+Use CSS to set the size of the image to 250 pixels wide and 400 pixels tall.
+
+<img src="scream.png" style="width:250px;height:400px;">
+
+
+Use the correct HTML to make the image become a link to "default.html".
+
+
+<a href="default.html">
+    <img src="smiley.gif">
+</a>
+
+
+
+Make the image below float to the right of the paragraph.
+
+<p>
+    <img src="smiley.gif" style="float:right;">
+    This is a paragraph.
+    This paragraph contains an image
+</p>
+
+
+Add the correct HTML attribute to display the "smiley.gif" image.
+
+<img src="smiley.gif">
+
+
+Specify an alternate text for the image.
+The alternate text should say "Smiley".
+Alternate text is useful when the image cannot be displayed, 
+like when the page is read by a screen reader.
+
+<img src="smiley.gif" alt="Smiley">
+
+
+What is a correct HTML element for defining an image map?
+
+The Answer: The <map> element
+
+
+What is another HTML element used when defining image maps?
+
+The Answer: The <area> element
+
+
+For image maps, specify a legal value for the area tag's shape attribute.
+(Any legal value will give a correct answer)
+
+<area shape="rect" href="default.html">
+
+
+What is a correct CSS property for defining background images?
+
+The Answer: The background-image property
+
+
+To add a background image on an entrire HTML page, 
+on which element should you specify the background image?
+
+The Answer: The body element
+
+
+Add a background image named "myimage.png" on a HTML element.
+
+<p style="background-image: url('myimage.png')">
+
+
+One of these elements is NOT a legal HTML element, which one?
+
+The Answer: The <image> element
+
+
+Consider the following code:
+<picture>
+  <source srcset='avatar.png'>
+  <source srcset='mustang.jpg'>
+</picture>
+What will be the result if the browser supports both images?
+
+The Answer: Only the first image will be displayed
+
+
+True or False. An <img> element inside a <picture> element wil always be 
+prioritised before any image defined in a <source> element.
+
+The Answer: False

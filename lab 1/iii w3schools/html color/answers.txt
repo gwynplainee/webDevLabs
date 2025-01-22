@@ -1,0 +1,61 @@
+Do you remember any legal HTML color names? Which one of the following is a legal HTML color?
+
+The Answer: Tomato
+
+
+Insert the correct property to make the text color violet.
+
+<p style="color: violet">This is a paragraph.</p>
+
+
+The Alpha channel of a color controls the color-transparency, 
+but which of the following values will be MOST transparent?
+
+background-color: rgba(255,0,0,0)
+
+
+What is the color of the following text:
+Hello (green color)
+
+The Answer: color: rgb(0, 255, 0)
+
+
+Insert the correct RGB color values to make the background color completely blue.
+
+<p style="background-color:rgb(0, 0, 255)">This is a paragraph.</p>
+
+
+Insert the a background color where green has the value 100, 
+red has the value 106, and blue has the value 205.
+
+<p style="background-color:rgb(106, 100, 205)">This is a paragraph.</p>
+
+
+What is the highest HEX number of the following:
+
+The Answer: #BB
+
+
+Insert the correct HEX value to make the text color white.
+
+<p style="color: #ffffff">This is a paragraph.</p>
+
+
+Which one of the following will result in a grey color?
+
+The Answer: #A0A0A0
+
+
+Which one of the following color values will result in a black color?
+
+The Answer: hsl(0, 100%, 0%)
+
+
+Insert the HSLA value to make a color with no hue, 100% saturation, 50% lightness, and 50% transparency.
+
+<p style="color: hsla(0, 100%, 50%, 0.5)">This is a paragraph.</p>
+
+
+What does HSL stand for?
+
+The Answer: Hue, Saturation, Lightness

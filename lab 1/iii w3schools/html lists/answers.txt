@@ -1,0 +1,104 @@
+What is the correct tag name for list items?
+
+The Answer: <li>
+
+
+Which one is NOT a legal element in HTML?
+
+The Answer: ll
+
+
+True or False. The list items in ordered lists will be 
+marked with small black circles by default.
+
+The Answer: False
+
+
+What is the correct CSS property to use when defining the style of a list marker of unordered lists?
+
+The Answer: list-style-type
+
+
+Add a list item with the text "Coffee" inside the <ul>.
+
+    <ul>
+        <li>
+        Coffee
+        </li>
+    </ul>
+
+
+Finish the HTML code to make an unordered list.
+
+
+<ul>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+</ul>
+
+
+Use CSS to display squares instead of bullets.
+
+<ul style="list-style-type:square;">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+
+What is the correct HTML attribute to use when defining the type of the list item marker of ordered lists?
+
+Th Answer: type
+
+
+
+  Finish the HTML code to make an ordered list.
+
+
+<ol>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+</ol>
+  
+
+Use the correct HTML attribute to display letters (uppercase ABC) instead of numbers.
+
+<ol type="A">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
+
+Use the correct HTML attribute to display uppercase roman numbers.
+
+<ol type="I">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
+
+What is the correct tag name for a description list?
+
+The Answer: <dl>
+
+
+Use the correct HTML elements to make a description of each term in the description list.
+
+<dl>
+    <dt>Coffee</dt> 
+  <dd>- black hot drink</dd>
+  
+    <dt>Milk</dt>
+    
+  <dd>- white cold drink</dd>
+  
+</dl>
+
+
+What is the correct tag name for describing the term of a definition list?
+
+The Answer: dt

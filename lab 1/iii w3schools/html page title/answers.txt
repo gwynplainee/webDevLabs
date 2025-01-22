@@ -1,0 +1,13 @@
+In which HTML element is the page title defined?
+
+The Answer: The <title> lement
+
+
+What is the page's title?
+
+The Answer: Welcome
+
+
+True or False. A page should only have one title element.
+
+The Answer: True

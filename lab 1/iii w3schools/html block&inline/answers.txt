@@ -1,0 +1,13 @@
+Which type of elements takes up the full width available?
+
+The Answer: Block elements
+
+
+Name one HTML block element.
+
+The Answer: div
+
+
+Name one HTML inline element.
+
+The Answer: span
