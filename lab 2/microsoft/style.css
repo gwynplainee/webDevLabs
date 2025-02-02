@@ -24,7 +24,6 @@
   }
   
   #white-cap a {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     text-decoration: none;
     color: rgb(75, 75, 75);
@@ -55,7 +54,6 @@
   }
   
   #blue-cap a {
-    font-family: Arial, Helvetica, sans-serif;
     color: white;
     text-decoration: none;
   }
@@ -84,19 +82,17 @@
     background-color: white;
     width: 515px;
     height: 190px;
-    margin-top: -450px;
-    margin-left: 95px;
+    margin-top: -448px;
+    margin-left: 97px;
     padding: 10px;
     position: absolute;
   }
   
   #rectangle h1 {
-    font-family: Arial, Helvetica, sans-serif;
     margin-left: 15px;
   }
   
   #rectangle p {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     margin-left: 15px;
   }
@@ -152,10 +148,19 @@
   }
   
   .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     width: 20%;
-    height: 400px;
+    height: 380px;
     border: 2px solid gray;
     border-radius: 4px;
+    padding-bottom: 20px;
+  }
+
+  .card .shop-now-button {
+    align-self: center;
+    margin-top: -10px; 
   }
   
   .card img {
@@ -164,13 +169,11 @@
   
   .card h1,
   .card h2 {
-    font-family: Arial, Helvetica, sans-serif;
     margin: 15px;
     font-size: 30px;
   }
   
   .card p {
-    font-family: Arial, Helvetica, sans-serif;
     margin: 15px;
     font-size: 13px;
   }
