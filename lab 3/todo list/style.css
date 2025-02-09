@@ -1,0 +1,131 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', Helvetica, sans-serif;
+    background-color: aliceblue;
+    color: #1c1e21;
+}
+
+header {
+    height: 80px;
+    font-size: 18px;
+    display: flex;
+    justify-content: left;
+    padding: 15px;
+    border-bottom: gray 3px solid;
+    background-color: azure;
+}
+
+header h2{
+    margin-top: 10px;
+}
+
+#logo {
+    height: 40px;
+    margin-left: 20px;
+}
+
+main {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#create-task {
+    display: flex;
+    margin-top: 10px;
+}
+
+#create-task input {
+    width: 600px;
+    height: 40px;
+    font-size: 18px;
+    color: gray;
+    padding-left: 10px;
+    border: 2px gray solid;
+    border-radius: 6px;
+}
+
+
+#create-task button {
+    width: 60px;
+    margin-left: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #468bf2;
+    color: azure;
+    border: none;
+    border-radius: 4px;
+}
+
+#create-task button:hover {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2),
+        0px 0px 10px rgba(0, 0, 0, 0.15);
+}
+
+#create-task button:active {
+    background-color: #649cef;
+}
+
+#tasks-list{
+    width: 100%;
+    max-width: 675px; 
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 10px;
+}
+
+#list-container {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+    max-width: 600px;
+}
+
+#list-container li {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    list-style: none;
+    border: gray 1px solid;
+    border-radius: 8px;
+    padding: 14px;
+    font-size: 18px;
+    gap: 10px; 
+    margin: 3px;
+}
+
+#list-container input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+#list-container input[type="checkbox"]:checked + .task-text {
+    text-decoration: line-through;
+    color: gray; 
+}
+
+.delete-btn {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    margin-left: auto; 
+    opacity: 0.7; 
+    transition: opacity 0.2s;
+}
+
+.delete-btn:hover {
+    opacity: 1; 
+}
