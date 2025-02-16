@@ -82,7 +82,7 @@ main {
     padding: 10px;
 }
 
-#list-container {
+#undone-list-container {
     margin-top: 10px;
     display: flex;
     flex-direction: column;
@@ -92,7 +92,7 @@ main {
     max-width: 600px;
 }
 
-#list-container li {
+#undone-list-container li {
     display: flex;
     align-items: center;
     width: 100%;
@@ -104,18 +104,26 @@ main {
     font-size: 18px;
     gap: 10px; 
     margin: 3px;
+    flex-wrap: wrap;
 }
 
-#list-container input[type="checkbox"] {
+.task-text {
+    overflow-wrap: break-word;  
+    white-space: normal;  
+    display: block;  
+    max-width: 500px; 
+}
+
+#undone-list-container input[type="checkbox"] {
     width: 20px;
     height: 20px;
     cursor: pointer;
 }
 
-#list-container input[type="checkbox"]:checked + .task-text {
+/* #undone-list-container input[type="checkbox"]:checked + .task-text {
     text-decoration: line-through;
     color: gray; 
-}
+} */
 
 .delete-btn {
     width: 25px;
@@ -128,4 +136,35 @@ main {
 
 .delete-btn:hover {
     opacity: 1; 
+}
+
+#done-list-container input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+#done-list-container li {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    list-style: none;
+    border: gray 1px solid;
+    border-radius: 8px;
+    padding: 14px;
+    font-size: 18px;
+    gap: 10px; 
+    margin: 3px;
+    flex-wrap: wrap;
+}
+
+#done-list-container {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+    max-width: 600px;
 }

@@ -1,5 +1,6 @@
 const inputBox = document.getElementById("input-box");
-const listContainer = document.getElementById("list-container");
+const listContainer = document.getElementById("undone-list-container");
+const doneListContainer = document.getElementById("done-list-container");
 
 
 function addTask() {
@@ -7,6 +8,7 @@ function addTask() {
         alert("You must write something here!");
     } else {
         let li = document.createElement("li");
+        
         let checkbox = document.createElement("input");
         checkbox.type = "checkbox";
         let span = document.createElement("span");
@@ -28,6 +30,22 @@ function addTask() {
         deleteBtn.addEventListener("click", function() {
             li.remove();
         });
+
+        checkbox.addEventListener("click", function() {
+            if(listContainer.contains(li)){
+                listContainer.removeChild(li);
+            doneListContainer.appendChild(li);
+            }else{
+                doneListContainer.removeChild(li);
+                listContainer.appendChild(li);
+            }
+            
+        })
+
+        
+
+        
     }
 }
+
 
