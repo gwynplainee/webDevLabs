@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { ShopComponent } from './shop/shop.component';
+import { AddShopItemComponent } from "./add-shop-item/add-shop-item.component";
 
 
 @Component({
@@ -17,10 +18,14 @@ import { ShopComponent } from './shop/shop.component';
       <section class="content">
         <router-outlet></router-outlet>
       </section>
+
+      <section class="adding-item">
+        <app-add-shop-item></app-add-shop-item>
+      </section>
     </main>
   `,
   styleUrls: ['./app.component.css'],
-  imports: [ShopComponent, RouterModule]
+  imports: [ShopComponent, RouterModule, AddShopItemComponent]
 })
 export class AppComponent {
   title = 'products';

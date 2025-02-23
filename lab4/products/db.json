@@ -1,104 +1,134 @@
 {
-    "items": [
-        {
-            "id": 0,
-            "name": "Стиральная машина LG F2J3NS0W белый",
-            "shortDescription": "Глубина стиральной машины LG F2J3NS0W всего 44 см, благодаря чему она поместится даже в небольшую ванную комнату. Барабан вмещает 6 кг сухого белья, чего вполне достаточно для семьи из трёх-четырёх человек. ",
-            "description": "Глубина стиральной машины LG F2J3NS0W всего 44 см, благодаря чему она поместится даже в небольшую ванную комнату. Барабан вмещает 6 кг сухого белья, чего вполне достаточно для семьи из трёх-четырёх человек. Эта модель снабжена инверторным двигателем с прямым приводом, он отличается более длительным сроком службы, чем обычный, так как в его конструкции нет щёток и ремня. Есть программы для хлопка, смешанных тканей и шерсти, поэтому даже тонкий трикотаж не растянется и не покроется затяжками. Специальные циклы предназначены для детской и спортивной одежды.",
-            "price": "161 000",
-            "imageLink": "https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2v5ps2s-aptpcom/f2v5ps2s-gallery/basic/450x450.png",
-            "rating": 5,
-            "productLink": "https://kaspi.kz/shop/p/lg-f2j3ns0w-belyi-3601511/?c=750000000"
-        },
-        {
-            "id": 1,
-            "name": "Пылесос Samsung VCC4520S36/XEV синий",
-            "shortDescription": "Samsung SC4520 — компактный и удобный пылесос для сухой уборки. ",
-            "description": "Samsung SC4520 — компактный и удобный пылесос для сухой уборки. Небольшие размеры и малый вес позволяют легко передвигать прибор в процессе наведения порядка в доме. Мощный мотор обеспечивает высокую производительность устройства. Для сбора пыли используется контейнер Twin Chamber ёмкостью 1.3 л, разделённый на две камеры",
-            "price": "35 690",
-            "imageLink": "https://object.pscloud.io/cms/cms/Photo/img_0_24_381_0_1.jpg",
-            "rating": 5,
-            "productLink": "https://kaspi.kz/shop/p/samsung-vcc4520s36-xev-sinii-3701056/?c=750000000"
-        },
-        {
-            "id": 2,
-            "name": "Электрогриль Xiaomi Smart Air Fryer 6.5L BHR7357EU",
-            "shortDescription": "Аэрогриль Xiaomi Smart Air Fryer 6.5L EU, MAF10",
-            "description": "Аэрогриль Xiaomi Smart Air Fryer 6.5L EU, MAF10.Конвекционный нагрев на 360° - модернизированный круглый воздуховод улучшает циркуляцию и распределение воздушного потока, направляя горячий воздух непосредственно в корзину для жарки, нагреваясь равномерно без необходимости переворачивания. Двухслойное антипригарное покрытие на водной основе, легкая очистка после еды.",
-            "price": "58 958",
-            "imageLink": "https://img.al-style.kz/59933_1.jpg",
-            "rating": 5,
-            "productLink": "https://kaspi.kz/shop/p/elektrogril-xiaomi-smart-air-fryer-6-5l-bhr7357eu-118273472/?c=750000000"
-        },
-        {
-            "id": 3,
-            "name": "Пылесос Karcher VC 3 Plus 1.198-127.0 желтый",
-            "shortDescription": "Как и во всех продуктах Kärcher, пылесос VC 3 Plus без мешков обладает исключительной функциональностью. ",
-            "description": "Как и во всех продуктах Kärcher, пылесос VC 3 Plus без мешков обладает исключительной функциональностью. Благодаря своему элегантному дизайну и компактному размеру желтый VC 3 Plus идеально вписывается в современный интерьер. Прост в использовании, он подходит как для молодых, так и для пожилых людей. Высокоэффективный мультициклонный пылесос обеспечивает высокую мощность всасывания, а благодаря моющемуся контейнеру для сбора мусора он экономит семейный бюджет",
-            "price": "67 990",
-            "imageLink": "https://tssp.kz/_ipx/f_webp&s_400x400/https://storage.tssp.kz/uploads/7954/images/Gjw146eT.jpg",
-            "rating": 5,
-            "productLink": "https://kaspi.kz/shop/p/karcher-vc-3-plus-1-198-127-0-zheltyi-3700907/?c=750000000"
-        },
-        {
-            "id": 4,
-            "name": "Зарядное устройство Apple 18W USB-C Power Adapter USB Type-C белый",
-            "shortDescription": "Адаптер Apple 18W USB-C Power Adapter представляет собой компактное и эффективное зарядное устройство, предназначенное для быстрой и эффективной зарядки ваших устройств.",
-            "description": "Адаптер Apple 18W USB-C Power Adapter представляет собой компактное и эффективное зарядное устройство, предназначенное для быстрой и эффективной зарядки ваших устройств. Данный адаптер 18W подходит для следующих моделей: Apple Iphone 7/8/8 plus, iphone 10, XR, 11, 11 pro, 11pro max, 12, 12 pro, 12 pro max, iphone 13, 13 pro, 13 pro max, 14, 14 pro, 14 pro max, iphone 15, 15 pro, 15 pro max, iphone 16/16 plus/16 pro/16 pro max. Тип разъема: USB-C",
-            "price": "6 033",
-            "imageLink": "https://jmart.kz/_next/image?url=https%3A%2F%2Fjmart.kz%2Fimages%2Fdetailed%2F3419%2Frest_101302774_0.jpg&w=1080&q=75",
-            "rating": 5,
-            "productLink": "https://kaspi.kz/shop/p/apple-18w-usb-c-power-adapter-usb-type-c-belyi-102743952/?c=750000000"
-        },
-        {
-            "id": 5,
-            "name": "Мышь Logitech G102 Lightsync черный",
-            "shortDescription": "Мышь проводная Logitech G102 LightSync позволяет играть с максимальной эффективностью.",
-            "description": "Мышь проводная Logitech G102 LightSync позволяет играть с максимальной эффективностью. В мышке применяется датчик игрового уровня с чувствительностью 8000 dpi, регулируемой в широком диапазоне отдельной кнопкой. Logitech G102 LightSync оснащена 6 программируемыми кнопками. В левой и правой кнопках используется металлический пружинный механизм для исключительно точного срабатывания.",
-            "price": "9 043",
-            "imageLink": "https://c.dns-shop.kz/thumb/st4/fit/300/300/410047417f277293ca0413041266ed95/a131f53a2c5644d07b7d535eb3a2743917b33abbafd1ee834f00442d4003bc90.jpg",
-            "rating": 5,
-            "productLink": "https://kaspi.kz/shop/p/logitech-g102-lightsync-chernyi-100956618/?c=750000000"
-        },
-        {
-            "id": 6,
-            "name": "Сумка Portcase 9011 черный",
-            "shortDescription": "Предназначен для удобной переноски и защиты устройства.",
-            "description": "Предназначен для удобной переноски и защиты устройства. Элегантный дизайн и функциональность позволяют использовать их как в повседневной жизни, так и в деловой обстановке. Внутренние отделения и мягкая подкладка помогают уберечь ноутбук от повреждений, а дополнительные карманы подходят для хранения аксессуаров и документов. Практичное решение для комфортного и безопасного использования вашего устройства.",
-            "price": "3 950",
-            "imageLink": "https://object.pscloud.io/cms/cms/Photo/img_0_398_627_0.jpg",
-            "rating": 5,
-            "productLink": "https://kaspi.kz/shop/p/sumka-portcase-9011-chernyi-108895248/?c=750000000"
-        },
-        {
-            "id": 7,
-            "name": "SSD Kingston SNV3S/1000G 1000 Гб",
-            "shortDescription": "Kingston’s NV3 PCIe 4.0 NVMe SSD — это новое решение для хранения данных на основе контроллера NVMe Gen 4x4, обеспечивающее скорость чтения/записи до 6000/5000 МБ/с.",
-            "description": "Kingston’s NV3 PCIe 4.0 NVMe SSD — это новое решение для хранения данных на основе контроллера NVMe Gen 4x4, обеспечивающее скорость чтения/записи до 6000/5000 МБ/с. Новый SSD-накопитель обеспечивает более низкое энергопотребление и снижает нагрев, оптимизируя производительность вашей системы без ущерба для ее эффективности. Компактная односторонняя ко",
-            "price": "30 847",
-            "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOsPKAyQcrF7E1aMzFf-e6v9fd8eekPOHHIg&s",
-            "rating": 5,
-            "productLink": "https://kaspi.kz/shop/p/ssd-kingston-snv3s-1000g-1000-gb-123793481/?c=750000000"
-        },
-        {
-            "id": 8,
-            "name": "Карта памяти Kingston SDCS2/64Gb 64 Гб",
-            "shortDescription": "Карты памяти Canvas Select Plus microSD компании Kingston совместимы с устройствами Android и обладают производительностью класса A1.",
-            "description": "Карты памяти Canvas Select Plus microSD компании Kingston совместимы с устройствами Android и обладают производительностью класса A1. Они обеспечивают более высокую скорость и емкость, ускоряя загрузку приложений. Выберите для хранения своих фотографий и видео карту памяти подходящей емкости — доступны варианты до 512 ГБ.",
-            "price": "2 310 ",
-            "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHqCbm2rBR3DnOeCRVSj_ZPOg7w96J9weFw&s",
-            "rating": 5,
-            "productLink": "https://kaspi.kz/shop/p/kingston-sdcs2-64gb-64-gb-100081475/?c=750000000"
-        },
-        {
-            "id": 9,
-            "name": "Wi-Fi роутер TP-LINK Archer C64",
-            "shortDescription": "Двухдиапазонный Archer C64 позволяет подключить больше устройств",
-            "description": "Двухдиапазонный Archer C64 позволяет подключить больше устройств: диапазон 2.4 ГГц обеспечит надёжное подключение для работы с почтой, просмотра веб‑страниц и других простых задач, в то время как диапазон 5 ГГц лучше подойдёт для мультимедийных задач, таких как видеостримы или онлайн‑игры.",
-            "price": "19 844",
-            "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSrruKutHkQxoTeFcumdYyyrlYihhrGFimQ&s",
-            "rating": 5,
-            "productLink": "https://kaspi.kz/shop/p/wi-fi-router-tp-link-archer-c64-102399103/?c=750000000"
-        }
-    ]
+  "items": [
+    {
+      "id": "0",
+      "name": "Стиральная машина LG F2J3NS0W белый",
+      "shortDescription": "Глубина стиральной машины LG F2J3NS0W всего 44 см, благодаря чему она поместится даже в небольшую ванную комнату. Барабан вмещает 6 кг сухого белья, чего вполне достаточно для семьи из трёх-четырёх человек. ",
+      "description": "Глубина стиральной машины LG F2J3NS0W всего 44 см, благодаря чему она поместится даже в небольшую ванную комнату. Барабан вмещает 6 кг сухого белья, чего вполне достаточно для семьи из трёх-четырёх человек. Эта модель снабжена инверторным двигателем с прямым приводом, он отличается более длительным сроком службы, чем обычный, так как в его конструкции нет щёток и ремня. Есть программы для хлопка, смешанных тканей и шерсти, поэтому даже тонкий трикотаж не растянется и не покроется затяжками. Специальные циклы предназначены для детской и спортивной одежды.",
+      "price": "161 000",
+      "imageLink": "https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2v5ps2s-aptpcom/f2v5ps2s-gallery/basic/450x450.png",
+      "rating": 5,
+      "productLink": "https://kaspi.kz/shop/p/lg-f2j3ns0w-belyi-3601511/?c=750000000"
+    },
+    {
+      "id": "1",
+      "name": "Пылесос Samsung VCC4520S36/XEV синий",
+      "shortDescription": "Samsung SC4520 — компактный и удобный пылесос для сухой уборки. ",
+      "description": "Samsung SC4520 — компактный и удобный пылесос для сухой уборки. Небольшие размеры и малый вес позволяют легко передвигать прибор в процессе наведения порядка в доме. Мощный мотор обеспечивает высокую производительность устройства. Для сбора пыли используется контейнер Twin Chamber ёмкостью 1.3 л, разделённый на две камеры",
+      "price": "35 690",
+      "imageLink": "https://object.pscloud.io/cms/cms/Photo/img_0_24_381_0_1.jpg",
+      "rating": 5,
+      "productLink": "https://kaspi.kz/shop/p/samsung-vcc4520s36-xev-sinii-3701056/?c=750000000"
+    },
+    {
+      "id": "2",
+      "name": "Электрогриль Xiaomi Smart Air Fryer 6.5L BHR7357EU",
+      "shortDescription": "Аэрогриль Xiaomi Smart Air Fryer 6.5L EU, MAF10",
+      "description": "Аэрогриль Xiaomi Smart Air Fryer 6.5L EU, MAF10.Конвекционный нагрев на 360° - модернизированный круглый воздуховод улучшает циркуляцию и распределение воздушного потока, направляя горячий воздух непосредственно в корзину для жарки, нагреваясь равномерно без необходимости переворачивания. Двухслойное антипригарное покрытие на водной основе, легкая очистка после еды.",
+      "price": "58 958",
+      "imageLink": "https://img.al-style.kz/59933_1.jpg",
+      "rating": 5,
+      "productLink": "https://kaspi.kz/shop/p/elektrogril-xiaomi-smart-air-fryer-6-5l-bhr7357eu-118273472/?c=750000000"
+    },
+    {
+      "id": "3",
+      "name": "Пылесос Karcher VC 3 Plus 1.198-127.0 желтый",
+      "shortDescription": "Как и во всех продуктах Kärcher, пылесос VC 3 Plus без мешков обладает исключительной функциональностью. ",
+      "description": "Как и во всех продуктах Kärcher, пылесос VC 3 Plus без мешков обладает исключительной функциональностью. Благодаря своему элегантному дизайну и компактному размеру желтый VC 3 Plus идеально вписывается в современный интерьер. Прост в использовании, он подходит как для молодых, так и для пожилых людей. Высокоэффективный мультициклонный пылесос обеспечивает высокую мощность всасывания, а благодаря моющемуся контейнеру для сбора мусора он экономит семейный бюджет",
+      "price": "67 990",
+      "imageLink": "https://tssp.kz/_ipx/f_webp&s_400x400/https://storage.tssp.kz/uploads/7954/images/Gjw146eT.jpg",
+      "rating": 5,
+      "productLink": "https://kaspi.kz/shop/p/karcher-vc-3-plus-1-198-127-0-zheltyi-3700907/?c=750000000"
+    },
+    {
+      "id": "4",
+      "name": "Зарядное устройство Apple 18W USB-C Power Adapter USB Type-C белый",
+      "shortDescription": "Адаптер Apple 18W USB-C Power Adapter представляет собой компактное и эффективное зарядное устройство, предназначенное для быстрой и эффективной зарядки ваших устройств.",
+      "description": "Адаптер Apple 18W USB-C Power Adapter представляет собой компактное и эффективное зарядное устройство, предназначенное для быстрой и эффективной зарядки ваших устройств. Данный адаптер 18W подходит для следующих моделей: Apple Iphone 7/8/8 plus, iphone 10, XR, 11, 11 pro, 11pro max, 12, 12 pro, 12 pro max, iphone 13, 13 pro, 13 pro max, 14, 14 pro, 14 pro max, iphone 15, 15 pro, 15 pro max, iphone 16/16 plus/16 pro/16 pro max. Тип разъема: USB-C",
+      "price": "6 033",
+      "imageLink": "https://jmart.kz/_next/image?url=https%3A%2F%2Fjmart.kz%2Fimages%2Fdetailed%2F3419%2Frest_101302774_0.jpg&w=1080&q=75",
+      "rating": 5,
+      "productLink": "https://kaspi.kz/shop/p/apple-18w-usb-c-power-adapter-usb-type-c-belyi-102743952/?c=750000000"
+    },
+    {
+      "id": "5",
+      "name": "Мышь Logitech G102 Lightsync черный",
+      "shortDescription": "Мышь проводная Logitech G102 LightSync позволяет играть с максимальной эффективностью.",
+      "description": "Мышь проводная Logitech G102 LightSync позволяет играть с максимальной эффективностью. В мышке применяется датчик игрового уровня с чувствительностью 8000 dpi, регулируемой в широком диапазоне отдельной кнопкой. Logitech G102 LightSync оснащена 6 программируемыми кнопками. В левой и правой кнопках используется металлический пружинный механизм для исключительно точного срабатывания.",
+      "price": "9 043",
+      "imageLink": "https://c.dns-shop.kz/thumb/st4/fit/300/300/410047417f277293ca0413041266ed95/a131f53a2c5644d07b7d535eb3a2743917b33abbafd1ee834f00442d4003bc90.jpg",
+      "rating": 5,
+      "productLink": "https://kaspi.kz/shop/p/logitech-g102-lightsync-chernyi-100956618/?c=750000000"
+    },
+    {
+      "id": "6",
+      "name": "Сумка Portcase 9011 черный",
+      "shortDescription": "Предназначен для удобной переноски и защиты устройства.",
+      "description": "Предназначен для удобной переноски и защиты устройства. Элегантный дизайн и функциональность позволяют использовать их как в повседневной жизни, так и в деловой обстановке. Внутренние отделения и мягкая подкладка помогают уберечь ноутбук от повреждений, а дополнительные карманы подходят для хранения аксессуаров и документов. Практичное решение для комфортного и безопасного использования вашего устройства.",
+      "price": "3 950",
+      "imageLink": "https://object.pscloud.io/cms/cms/Photo/img_0_398_627_0.jpg",
+      "rating": 5,
+      "productLink": "https://kaspi.kz/shop/p/sumka-portcase-9011-chernyi-108895248/?c=750000000"
+    },
+    {
+      "id": "7",
+      "name": "SSD Kingston SNV3S/1000G 1000 Гб",
+      "shortDescription": "Kingston’s NV3 PCIe 4.0 NVMe SSD — это новое решение для хранения данных на основе контроллера NVMe Gen 4x4, обеспечивающее скорость чтения/записи до 6000/5000 МБ/с.",
+      "description": "Kingston’s NV3 PCIe 4.0 NVMe SSD — это новое решение для хранения данных на основе контроллера NVMe Gen 4x4, обеспечивающее скорость чтения/записи до 6000/5000 МБ/с. Новый SSD-накопитель обеспечивает более низкое энергопотребление и снижает нагрев, оптимизируя производительность вашей системы без ущерба для ее эффективности. Компактная односторонняя ко",
+      "price": "30 847",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOsPKAyQcrF7E1aMzFf-e6v9fd8eekPOHHIg&s",
+      "rating": 5,
+      "productLink": "https://kaspi.kz/shop/p/ssd-kingston-snv3s-1000g-1000-gb-123793481/?c=750000000"
+    },
+    {
+      "id": "8",
+      "name": "Карта памяти Kingston SDCS2/64Gb 64 Гб",
+      "shortDescription": "Карты памяти Canvas Select Plus microSD компании Kingston совместимы с устройствами Android и обладают производительностью класса A1.",
+      "description": "Карты памяти Canvas Select Plus microSD компании Kingston совместимы с устройствами Android и обладают производительностью класса A1. Они обеспечивают более высокую скорость и емкость, ускоряя загрузку приложений. Выберите для хранения своих фотографий и видео карту памяти подходящей емкости — доступны варианты до 512 ГБ.",
+      "price": "2 310 ",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHqCbm2rBR3DnOeCRVSj_ZPOg7w96J9weFw&s",
+      "rating": 5,
+      "productLink": "https://kaspi.kz/shop/p/kingston-sdcs2-64gb-64-gb-100081475/?c=750000000"
+    },
+    {
+      "id": "9",
+      "name": "Wi-Fi роутер TP-LINK Archer C64",
+      "shortDescription": "Двухдиапазонный Archer C64 позволяет подключить больше устройств",
+      "description": "Двухдиапазонный Archer C64 позволяет подключить больше устройств: диапазон 2.4 ГГц обеспечит надёжное подключение для работы с почтой, просмотра веб‑страниц и других простых задач, в то время как диапазон 5 ГГц лучше подойдёт для мультимедийных задач, таких как видеостримы или онлайн‑игры.",
+      "price": "19 844",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSrruKutHkQxoTeFcumdYyyrlYihhrGFimQ&s",
+      "rating": 5,
+      "productLink": "https://kaspi.kz/shop/p/wi-fi-router-tp-link-archer-c64-102399103/?c=750000000"
+    },
+    {
+      "id": "77f7",
+      "name": "fbcxv",
+      "shortDescription": "vcxvcx",
+      "description": "vxcv",
+      "price": 100,
+      "rating": 5,
+      "imageLink": "dsvxc",
+      "productLink": "cvcxv"
+    },
+    {
+      "id": "27d6",
+      "name": "jvkndsvjsd",
+      "shortDescription": "dsjkvnsd",
+      "description": "sdvnjsvnj",
+      "price": 452,
+      "rating": 156,
+      "imageLink": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2918_0_6.png",
+      "productLink": "https://kaspi.kz/shop/p/dlja-apple-iphone-13-prozrachnyi-106185651/?c=750000000"
+    },
+    {
+      "id": "709a",
+      "name": "bg7j7ju8",
+      "shortDescription": "tv6gthy7",
+      "description": "uy7hnhun",
+      "price": 1,
+      "rating": 1,
+      "imageLink": "https://object.pscloud.io/cms/cms/Photo/img_0_81_2918_0_6.png",
+      "productLink": "https://kaspi.kz/shop/p/dlja-apple-iphone-13-prozrachnyi-106185651/?c=750000000"
+    }
+  ]
 }
