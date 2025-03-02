@@ -5,17 +5,22 @@ import { ShopItemComponent } from '../shop-item/shop-item.component';
 import { ShopItem } from '../shop-item';
 import { ShoppingService } from '../shopping.service';
 import { HttpClientModule, HttpClient } from '@angular/common/http';
+import { AddShopItemComponent } from "../add-shop-item/add-shop-item.component";
 
 @Component({
   selector: 'app-category-page',
   standalone: true,
-  imports: [CommonModule, ShopItemComponent, HttpClientModule],
+  imports: [CommonModule, ShopItemComponent, HttpClientModule, AddShopItemComponent],
   template: `
     <div class="category-page">
       <h2>Category: {{ categoryName }}</h2>
       
       <div class="results">
         <app-shop-item *ngFor="let shopItem of filteredItems" [shopItem]="shopItem" (itemRemoved)="onItemRemoved($event)"></app-shop-item>
+      </div>
+
+      <div class="add-shop-item">
+        <app-add-shop-item [category]="categoryName"></app-add-shop-item>
       </div>
     </div>
   `,

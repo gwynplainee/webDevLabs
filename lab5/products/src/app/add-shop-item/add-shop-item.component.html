@@ -8,7 +8,7 @@
       name="name"
       required
     />
-  
+
     <label for="shortDescription">Short Description:</label>
     <input
       type="text"
@@ -17,7 +17,7 @@
       name="shortDescription"
       required
     />
-  
+
     <label for="description">Description:</label>
     <input
       type="text"
@@ -26,7 +26,7 @@
       name="description"
       required
     />
-  
+
     <label for="price">Price:</label>
     <input
       type="number"
@@ -35,7 +35,7 @@
       name="price"
       required
     />
-  
+
     <label for="rating">Rating:</label>
     <input
       type="number"
@@ -44,15 +44,32 @@
       name="rating"
       required
     />
-  
+
     <label for="image">Image URL:</label>
-    <input type="text" id="image" [(ngModel)]="newItem.imageLink" name="image" />
-  
+    <input
+      type="text"
+      id="image"
+      [(ngModel)]="newItem.imageLink"
+      name="image"
+    />
+
     <label for="productLink">Product Link:</label>
-    <input type="text" id="productLink" [(ngModel)]="newItem.productLink" name="productLink" />
-  
-  
+    <input
+      type="text"
+      id="productLink"
+      [(ngModel)]="newItem.productLink"
+      name="productLink"
+    />
+
+    <label for="likes">Likes:</label>
+    <input
+      type="number"
+      id="likes"
+      [(ngModel)]="newItem.likes"
+      name="likes"
+      required
+    />
+
     <button type="submit">Add Item</button>
   </form>
-  
 </section>
