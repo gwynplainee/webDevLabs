@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django database (SQLite)
+db.sqlite3
+
+# Migrations (optional, if you don’t want to track them)
+api/migrations/*.py
+!api/migrations/__init__.py
+
+# Logs
+*.log
+logs/
+*.out
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+*.pem
